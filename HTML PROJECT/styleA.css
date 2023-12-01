@@ -1,0 +1,47 @@
+body {
+    background:url(ex4.jpg)no-repeat;
+    background-size:cover;
+    
+}
+
+header {
+    background-color: #333;
+    color: #141212;
+    
+    padding: 10px 0;
+    text-align: center;
+}
+
+header ul {
+    color:rgb(14, 13, 13);
+    list-style: none;
+}
+
+header ul li {
+    display: inline;
+    margin: 0 20px;
+}
+
+header ul li a {
+    color:rgb(199, 148, 148);
+    text-decoration: none;
+    color: #131212;
+}
+
+section {
+    color:rgb(196, 189, 217);
+    
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    color: rgb(10, 9, 9);
+    font-size:35px;
+    
+}
+
+p{
+    font-size: 20px;
+    color:white;
+}

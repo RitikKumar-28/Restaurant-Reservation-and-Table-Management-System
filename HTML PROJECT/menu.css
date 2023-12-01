@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background:url(rest13.jpg)no-repeat;
+    background-size: cover;
+}
+
+
+header h1 {
+    font-size: 36px;
+    
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.menu-item {
+    width: 300px;
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.menu-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.menu-item h2 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.menu-item p {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.price {
+    font-size: 18px;
+    font-weight: bold;
+    color: #d9534f;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
